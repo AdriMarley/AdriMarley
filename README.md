@@ -1,16 +1,28 @@
-### Hi there 👋
+### Olá. sou Adriana Marley 👋
 
-<!--
-**AdriMarley/AdriMarley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Futura Ciêntista de Dados...
 
-Here are some ideas to get you started:
+.😄 Estudante de Enghish
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.👩‍🎓 Estudante do curso **Ciência de Dados**
+
+.😍 Amo fazer trilhas nos tempos vagos 🚶‍♀️
+
+.💻 Trablhando atualmente como **Analista de Redes Junior** na empresa (Telefônica Vivo)
+
+.🎯 Focada agora em:
+
+
+<div style = "display: inline">
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />     
+</div>
+          
+          
+          
+### Você também me encontra em:
+
+
+
